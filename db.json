@@ -1,0 +1,18 @@
+{
+  "Project4": [
+    {
+      "nama": "Letda",
+      "judulbuku": "Siksa Neraka",
+      "tanggalpinjam": "06-11-2000",
+      "tanggalpengembalian": "06-11-2021",
+      "id": 1
+    },
+    {
+      "nama": "Bagong",
+      "judulbuku": "Azab Kubur",
+      "tanggalpinjam": "09-09-2009",
+      "tanggalpengembalian": "09-09-2019",
+      "id": 2
+    }
+  ]
+}
